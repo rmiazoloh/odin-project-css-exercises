@@ -1,0 +1,18 @@
+.pair-element {
+    background-color: lightpink;
+    font-family: Verdana, déja vu sans, sans-serif;
+}
+.third-element {
+    font-size: 24px;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+}
+
+.fourth-element {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
